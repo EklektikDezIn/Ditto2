@@ -1,0 +1,232 @@
+
+
+Error:Send To#C:\Users\Mishko\Desktop\clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 f2sm8399079obe.15 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:163)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 f2sm8399079obe.15 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:157)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 f15sm4147066obs.18 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:163)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 f15sm4147066obs.18 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:157)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\Clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 g3sm8402550obt.19 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:165)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 g3sm8402550obt.19 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:159)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\Clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ef2sm8274027oeb.0 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:165)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ef2sm8274027oeb.0 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:159)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\Clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ln10sm8409091obc.24 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:165)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ln10sm8409091obc.24 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:159)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\Clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j16sm8427600obe.5 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:166)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j16sm8427600obe.5 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:160)
+	... 6 more
+
+
+Error:Send To#C:\Users\Mishko\Desktop\Clap.wav#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gv9sm8475595obc.17 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:166)
+	at Ditto.Ditto.Emailer(Ditto.java:155)
+	at Ditto.Ditto.Target(Ditto.java:242)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:277)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gv9sm8475595obc.17 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:160)
+	... 6 more
+
+
+Error:remove email#5#
+java.lang.IndexOutOfBoundsException: Index: 558038585, Size: 6
+	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+	at java.util.ArrayList.get(ArrayList.java:411)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:267)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+
+
+Error:remove email#3#
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+	at java.util.ArrayList.get(ArrayList.java:411)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:267)
+	at Ditto.Ditto.Prompt(Ditto.java:90)
+	at Ditto.Ditto.Ditto(Ditto.java:80)
+	at Ditto.Ditto.main(Ditto.java:69)
+
+
+Error:send to#Mishko#asdf#
+java.lang.ArrayIndexOutOfBoundsException: -111111
+	at java.util.ArrayList.elementData(ArrayList.java:400)
+	at java.util.ArrayList.get(ArrayList.java:413)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:329)
+	at Ditto.Ditto.Prompt(Ditto.java:106)
+	at Ditto.Ditto.Ditto(Ditto.java:96)
+	at Ditto.Ditto.main(Ditto.java:71)
+
+
+Error:interesting
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+	at java.util.ArrayList.get(ArrayList.java:411)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:289)
+	at Ditto.Ditto.Prompt(Ditto.java:106)
+	at Ditto.Ditto.Ditto(Ditto.java:96)
+	at Ditto.Ditto.main(Ditto.java:71)
+
+
+Error:send to
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+	at java.util.ArrayList.get(ArrayList.java:411)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:289)
+	at Ditto.Ditto.Prompt(Ditto.java:106)
+	at Ditto.Ditto.Ditto(Ditto.java:96)
+	at Ditto.Ditto.main(Ditto.java:71)
